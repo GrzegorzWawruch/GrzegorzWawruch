@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on  Wrocław Univeristy of Science and Technology majoring in Cybersecurity<br>👯 I’m looking for my first professional job.<br>🌱 I’m currently learning Python, SQL, Docker<br>⚡ Fun fact: my PB on benchpress is 140kg
+🔭 I’m currently studying on  Wrocław Univeristy of Science and Technology majoring in Cybersecurity<br>👯 I’m looking for my first professional job.<br>🌱 I’m currently learning Python, AWS, Kubernetes<br>⚡ Fun fact: my PB on benchpress is 140kg
 
 
 ## 🌐 Socials:
